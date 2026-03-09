@@ -1,0 +1,17 @@
+# 环境变量（包含敏感信息）
+config/.env
+
+# macOS
+.DS_Store
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 日志
+*.log
+
+# 临时文件
+*.tmp
