@@ -31,8 +31,14 @@ cp config/.env.example config/.env
 
 ### 4. 运行安装脚本
 
+**macOS / Linux:**
 ```bash
 ./install.sh
+```
+
+**Windows:**
+```cmd
+install.bat
 ```
 
 ### 5. 启动服务
