@@ -163,6 +163,17 @@ openclaw chat
 
 打开浏览器，访问：`http://127.0.0.1:18789/`
 
+#### 第 9 步：清理安装文件（可选）
+
+安装完成后，配置已经复制到 `~/.openclaw/` 目录，可以删除下载的安装包：
+
+```bash
+cd ~/Documents
+rm -rf openclaw-team-config
+```
+
+以后需要重新安装时，再 `git clone` 即可。
+
 ---
 
 ### Windows 用户
@@ -265,6 +276,17 @@ openclaw chat
 
 打开浏览器，访问：`http://127.0.0.1:18789/`
 
+#### 第 10 步：清理安装文件（可选）
+
+安装完成后，可以删除下载的安装包：
+
+```cmd
+cd %USERPROFILE%\Documents
+rmdir /s /q openclaw-team-config
+```
+
+以后需要重新安装时，再 `git clone` 即可。
+
 ---
 
 ### Linux 用户
@@ -336,6 +358,17 @@ openclaw chat
 ```
 
 或访问：`http://127.0.0.1:18789/`
+
+#### 第 8 步：清理安装文件（可选）
+
+安装完成后，可以删除下载的安装包：
+
+```bash
+cd ~/Documents
+rm -rf openclaw-team-config
+```
+
+以后需要重新安装时，再 `git clone` 即可。
 
 ---
 
